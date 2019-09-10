@@ -1,0 +1,5 @@
+{
+	"jwtPrivateKey":"",
+	"db":"mongodb://ryong:pintu123@ds143614.mlab.com:43614/bookapidb"
+	
+}
